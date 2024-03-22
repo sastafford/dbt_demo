@@ -1,0 +1,11 @@
+pvc:
+  outputs:
+    dev:
+      catalog: null
+      host: <HOST>
+      http_path: <HTTP_PATH>
+      schema: <SCHEMA>
+      threads: 1
+      token: <PERSONAL_ACCESS_TOKEN>
+      type: databricks
+  target: dev

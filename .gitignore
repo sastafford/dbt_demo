@@ -1,0 +1,5 @@
+.databricks
+.vscode
+logs/
+profiles.yml
+.user.yml
